@@ -66,10 +66,4 @@ Screenshots are in `screenshots/`.
 - The semaphore Readers-Writers favours readers, so writers can starve. The monitor version favours writers, so readers can starve.
 - Back-off in the monitor Dining Philosophers makes starvation unlikely but does not rule it out.
 
-## AI tools used
 
-[AI tool name and version]. Prompts are in [ai_prompts/prompts.md](ai_prompts/prompts.md).
-
-## References
-
-See [references/references.md](references/references.md). The full write-up is in `report/`.
